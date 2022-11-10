@@ -31,4 +31,11 @@ This project is about building the back end for an e-commerce site. This applica
   - `source schema.sql`
   - `npm run seed` [To seed the file]
 - Run the app
+
   - `npm start` [To start the server] and navigate to <http://localhost:3001/> in your browser OR Use Insomnia Core
+
+  ## ScreetShots
+
+  ![](./Assets/Images/Tag%20Route%20Pic.jpg)
+  ![](./Assets/Images/Product%20Routes%20Pic.jpg)
+  ![](./Assets/Images/Category%20Routes%20Pic.jpg)
