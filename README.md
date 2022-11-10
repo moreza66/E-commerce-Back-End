@@ -55,6 +55,20 @@ This project is about building the back end for an e-commerce site. This applica
 - Categories : [Click here](https://drive.google.com/file/d/1TUBghIW3pE8Jye6t50kF33U0kzs4mqTK/view?usp=sharing)<br>
 - Products : [Click here](https://drive.google.com/file/d/1YsJXXlATRk_Q_KfYsUsWnrLYV3aOyy_n/view?usp=sharing)<br>
 - Tags : [Click here](https://drive.google.com/file/d/1UsyYfdT3S_7iPmvn0V4x5pKh0oRvla14/view?usp=sharing)<br>
+
   - GET routes for all categories, all products, and all tags <br>
   - GET routes for a single category, a single product, and a single tag by Id<br>
   - POST, PUT, and DELETE routes for categories, products, and tags
+
+  ## License
+
+  This project is licensed under ISC
+
+## Tests
+
+There are no tests for this application.
+
+## Questions
+
+For any questions about the project/repository please contact me @ [moreza.memar@gmail.com](mailto:moreza.memar@gmail.com) </br>
+GitHub @ [moreza66](https://github.com/moreza66)
